@@ -27,3 +27,7 @@ I actually do have experience with CAD, well at least some. I have used Blender 
 # PCB LED
 (4 hours tracked with lapse)
 Well, I always think I'm done with my PCB, but it always comes back. I mean, I would like to squarely put the blame on a family member who pointed out that LED light would make it much better. So that was a tedious task adding an LED per key and wiring it up. I did some research, and it seems some people put a capacitor in front of every single LED while others don't. I didn't do it as my wiring is complicated enough. But I'm really unsure of what to do. 
+
+# PCB LED part 2
+(2:30 hours tracked with lapse)
+Well, guess what wouldn't stop haunting me. From some quick research and talking to others in Slack, it seems like I added a bulk capacitor instead of Ceramic Capacitors on the LEDs themselves. So I had to update the schematic, and when I went to update the PCB from the schematic turns out some of the switches are in the wrong place, so those had to be replaced again. Of course, when I saw that some switches were gone, so were some of the Diodes. So that was a process of cleaning up the board and adding the new capacitors to the correct places. But I think this is it; I'm ready to submit.
