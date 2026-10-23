@@ -8,6 +8,7 @@
 # Planning
 30min (tracked with Lapse)
 I have gone for a semi-custom 60% layout, which I think will work well for my needs. It is in a Mac-style layout (e.g., Command key and Option). You can find the sketch of the layout in the repo.
+<a href='https://postimg.cc/xJkfXjS6' target='_blank'><img src='https://i.postimg.cc/xJkfXjS6/image.png' border='0' alt='image'></a>
 
 # Schematic
 2 hours
