@@ -24,6 +24,8 @@ Yep, this was a rabbit hole if there ever was one. I knew a very little bit abou
 (4 hours tracked with lapse)
 I actually do have experience with CAD, well at least some. I have used Blender and Tinkercad before for small projects. Anyway, Onshape was quite a learning curve; the way you can't just move objects but need to use the transform tool definitely needed some wrapping my heard round. But my worst error was connecting the bottom and the top part of the case. I had no idea Onshape had a 'part' system that connected all objects together if I didn't create a new part. Well, anyway, that took its time; I got the hang of it after some time, and the case is finished. I just hope I have all the measurements and cutouts correct.
 
+Like to the Onshape file: https://cad.onshape.com/documents/2586bd28e0163321bcefb98d/w/22cbb18d3467a40001aad52c/e/a9439bb21eb842022fdd70c8?renderMode=0&uiState=6adaeeaf906bb97b8fde1ceb
+
 # PCB LED
 (4 hours tracked with lapse)
 Well, I always think I'm done with my PCB, but it always comes back. I mean, I would like to squarely put the blame on a family member who pointed out that LED light would make it much better. So that was a tedious task adding an LED per key and wiring it up. I did some research, and it seems some people put a capacitor in front of every single LED while others don't. I didn't do it as my wiring is complicated enough. But I'm really unsure of what to do. 
