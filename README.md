@@ -1,5 +1,10 @@
 # keyboard
 
+<a href="https://postimg.cc/QVXSZBh9" target="_blank"><img src="https://i.postimg.cc/QVXSZBh9/Screenshot-2026-08-13-at-10-50-44-pm.jpg" alt="Screenshot-2026-08-13-at-10-50-44-pm"></a> <a href="https://postimg.cc/w36FYtgh" target="_blank"><img src="https://i.postimg.cc/w36FYtgh/Screenshot-2026-08-13-at-10-51-06-pm.jpg" alt="Screenshot-2026-08-13-at-10-51-06-pm"></a><br><br>
+<a href="https://postimg.cc/4nJwRKsP" target="_blank"><img src="https://i.postimg.cc/4nJwRKsP/Screenshot-2026-08-13-at-10-51-52-pm.jpg" alt="Screenshot-2026-08-13-at-10-51-52-pm"></a> <a href="https://postimg.cc/149M1gsK" target="_blank"><img src="https://i.postimg.cc/149M1gsK/Screenshot-2026-08-13-at-10-52-20-pm.jpg" alt="Screenshot-2026-08-13-at-10-52-20-pm"></a><br><br>
+<a href="https://postimg.cc/Jt1KCyM5" target="_blank"><img src="https://i.postimg.cc/Jt1KCyM5/Screenshot-2026-08-13-at-10-52-36-pm.jpg" alt="Screenshot-2026-08-13-at-10-52-36-pm"></a> <a href="https://postimg.cc/0r8Z16PV" target="_blank"><img src="https://i.postimg.cc/0r8Z16PV/Screenshot-2026-08-13-at-10-53-35-pm.jpg" alt="Screenshot-2026-08-13-at-10-53-35-pm"></a><br><br>
+<a href="https://postimg.cc/xq0gVkns" target="_blank"><img src="https://i.postimg.cc/xq0gVkns/Screenshot-2026-08-13-at-10-53-54-pm.jpg" alt="Screenshot-2026-08-13-at-10-53-54-pm"></a> 
+
 # Planning
 30min (tracked with Lapse)
 I have gone for a semi-custom 60% layout, which I think will work well for my needs. It is in a Mac-style layout (e.g., Command key and Option). You can find the sketch of the layout in the repo.
