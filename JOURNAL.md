@@ -3,7 +3,7 @@
 # 18 July: Planning
 
 I have gone for a semi-custom 60% layout, which I think will work well for my needs. It is in a Mac-style layout (e.g., Command key and Option). You can find the sketch of the layout in the repo.
-![planning of the keys I want](https://github.com/taminodesign/keyboard/main/images/IMG_1104.JPG?raw=true)
+![planning of the keys I want](https://github.com/taminodesign/keyboard/images/IMG_1104.JPG?raw=true)
 
 30m
 
