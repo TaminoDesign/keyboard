@@ -12,11 +12,15 @@ I have gone for a semi-custom 60% layout, which I think will work well for my ne
 
 Finished with the schematic layout, I had some trouble figuring out how to best arrange them and needed to do some research to find out if the exact placement was important at this point. Turns out the final sizes are only relevant in the next set, so could have saved myself some time. Well, anyway, looking good, moving on to the actual PCB
 
+![Final schematic layout](https://github.com/TaminoDesign/keyboard/blob/main/images/Screenshot%202026-08-13%20at%2010.50.44%20pm.png)
+
 2 hours
 
 # 21 July: PCB
 
 The PCB is finally done. I can't believe it took this long. I had so many issues; the first was realising that the switch cutouts need to be placed in the correct order, as in the schematic. Of course, I only realised this after placing all of them. The next thing to go wrong was realising that I had added too many rows to the schematic, so that had to change. And finally, it turns out I assigned the rows and columns in the wrong order, so I couldn't draw the traces on the board, meaning back to the schematic. To be honest, there still is the issue of switches over my Raspberry Pi; I'm not sure if it will work, but I think/hope that if it doesn't, I can just ignore those and cover them up (they are extra switches), so let's see. But the good news is that it's finished.
+
+![Final PCB design](https://github.com/TaminoDesign/keyboard/blob/main/images/Screenshot%202026-08-13%20at%2010.51.06%20pm.png)
 
 4 hours 40 minutes
 
@@ -24,11 +28,15 @@ The PCB is finally done. I can't believe it took this long. I had so many issues
 
 When you think something is finished but it isn't. In my original design, I had switches over top of the Pi; to be honest, I'm not sure if it would have been a problem, but I don't want to risk it. So I had to go and make changes to the schematic, and because I had already added all the tracks to the PCB and then moved switches about, that had to be redone. I mean, I'm glad I decided to do it; getting the PCB and finding that it doesn't work because of strange switch placement would have been so bad.
 
+![image of the Pi on the PCB](https://github.com/TaminoDesign/keyboard/blob/main/images/Screenshot%202026-08-13%20at%2010.52.36%20pm.png)
+
 2 hours
 
 # 26 July: Key switch research
 
 Yep, this was a rabbit hole if there ever was one. I knew a very little bit about the actual switches, just that there are three overall categories. So I really did spend 4 hours researching and comparing. Now I think I always knew I wanted linear switches; I have been typing on laptops my whole life, so I'm just so used to it. What really threw me was the sound: clicky, deep, silent, tappy, loud, medium or quiet. I pretty quickly found out I don't like the clicky to annoying and loud, then found some medium ones that were nice and deep and thought I had found the best ones. But when I thought about them being louder than my laptop, it just seemed too much (I need quiet to concentrate). So, abandoning everything, I started looking into silent switches, found out that silent doesn't really mean silent, just quieter and that even that varied a lot. After many sound tests and reading, I found the TTC Frozen V2 and the Outemu Peach V2. Those seem like the best ones for me; the TTCs are a little more expensive, but they are a lot nicer. I'm really not sure what the budget is, so if constrained, I will go for the Outemu; if not, then the TTC. Both are extremely quiet but still have a deeper sound signature and are not clacky. Well, that concluded my search, just have to find the rest of the components. 
+
+![switch research](https://github.com/TaminoDesign/keyboard/blob/main/images/switches.png)
 
 4 hours
 
@@ -36,16 +44,24 @@ Yep, this was a rabbit hole if there ever was one. I knew a very little bit abou
 
 I actually do have experience with CAD, well at least some. I have used Blender and Tinkercad before for small projects. Anyway, Onshape was quite a learning curve; the way you can't just move objects but need to use the transform tool definitely needed some wrapping my heard round. But my worst error was connecting the bottom and the top part of the case. I had no idea Onshape had a 'part' system that connected all objects together if I didn't create a new part. Well, anyway, that took its time; I got the hang of it after some time, and the case is finished. I just hope I have all the measurements and cutouts correct.
 
+![case design in onshape](https://github.com/TaminoDesign/keyboard/blob/main/images/Screenshot%202026-08-13%20at%2010.53.35%20pm.png)
+
+Like to the Onshape file: https://cad.onshape.com/documents/2586bd28e0163321bcefb98d/w/22cbb18d3467a40001aad52c/e/a9439bb21eb842022fdd70c8?renderMode=0&uiState=6adaeeaf906bb97b8fde1ceb
+
 4 hours
 
 # 27 July: PCB LED
 
 Well, I always think I'm done with my PCB, but it always comes back. I mean, I would like to squarely put the blame on a family member who pointed out that LED light would make it much better. So that was a tedious task adding an LED per key and wiring it up. I did some research, and it seems some people put a capacitor in front of every single LED while others don't. I didn't do it as my wiring is complicated enough. But I'm really unsure of what to do. 
 
+![PCB with LEDs](https://github.com/TaminoDesign/keyboard/blob/main/images/Screenshot%202026-08-13%20at%2010.52.20%20pm.png)
+
 4 hours
 
 # 28 July: PCB LED part 2
 
 Well, guess what wouldn't stop haunting me. From some quick research and talking to others in Slack, it seems like I added a bulk capacitor instead of Ceramic Capacitors on the LEDs themselves. So I had to update the schematic, and when I went to update the PCB from the schematic turns out some of the switches are in the wrong place, so those had to be replaced again. Of course, when I saw that some switches were gone, so were some of the Diodes. So that was a process of cleaning up the board and adding the new capacitors to the correct places. But I think this is it; I'm ready to submit.
+
+![PCB with LEDs](https://github.com/TaminoDesign/keyboard/blob/main/images/Screenshot%202026-08-13%20at%2010.51.52%20pm.png)
 
 2 hours 30 minutes
