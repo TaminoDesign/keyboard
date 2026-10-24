@@ -1,15 +1,9 @@
 # keyboard
----
-title: "Keyboard 01"
-github: https://github.com/TaminoDesign/keyboard
-description: "This is my very first venture into the world of mechanical keyboards (before being a laptop user never really felt the need for one). So I wanted to play it safe and just created a very standard layout, but I did include some backlighting."
-created_at: "17 July 2026"
----
 
 # 18 July: Planning
 
 I have gone for a semi-custom 60% layout, which I think will work well for my needs. It is in a Mac-style layout (e.g., Command key and Option). You can find the sketch of the layout in the repo.
-<a href='https://postimg.cc/xJkfXjS6' target='_blank'><img src='https://i.postimg.cc/xJkfXjS6/image.png' border='0' alt='image'></a>
+![planning of the keys I want](https://github.com/taminodesign/keyboard/main/images/IMG_1104.JPG?raw=true)
 
 30m
 
